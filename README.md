@@ -1,4 +1,4 @@
-# Capstone-project-2
+# Analyzed neighborhood incidents (fire, gas leak, etc) to predict the safety rate of a neighborhood (by zip code)/Capstone-project-2
 	
 		
 		Safety is very important in any neighborhood, mostly we consider safety by looking at crime rate in a neighborhood. One of the aspects of safety that we should be considered is rate of incidents(like fire, stuck in elevators, gas leaking etc.) or facilities in a house to prevent these type of incident, facilities in fire departments in neighborhoods and how quick fire departments response to an incident, these could be considered as safety rate of a place as well. My goal is to find safety of neighborhoods based on the mentioned aspects, and mark neighborhoods safe or unsafe which can help house seekers to find a better one and  real state agencies to give a better guide to their clients, also local consults to pay more attention to fire departments’ problems in their neighborhood to improve safety. 
